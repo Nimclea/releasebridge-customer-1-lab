@@ -3,3 +3,5 @@ export function add(a, b) {
   if (!Number.isSafeInteger(a) || !Number.isSafeInteger(b)) throw new TypeError('safe integers required');
   return a + b;
 }
+
+// Intentional frozen-path violation. Never merge.
