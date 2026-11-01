@@ -1,0 +1,1 @@
+{"name":"releasebridge-customer-1-lab","private":false,"type":"module","scripts":{"test":"node --test test/*.test.mjs"}}
