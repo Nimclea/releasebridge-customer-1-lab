@@ -1,0 +1,2 @@
+# releasebridge-customer-1-lab
+Public synthetic fixture for ReleaseBridge first-time installation and GitHub enforcement testing
